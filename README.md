@@ -4,3 +4,5 @@ walkthrough to demo git essentials
 
 
 this is my first python class.
+
+git essentials.
