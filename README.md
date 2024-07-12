@@ -1,8 +1,11 @@
 # sample_demo_repo
 
-walkthrough to demo git essentials 
+## walkthrough to demo git essentials 
 
 
-this is my first python class.
+This is my first python class.
 
-git essentials.
+we have covered till now
+- Installation python the best way
+-  overview of python.
+-  git essentials.
